@@ -1,0 +1,42 @@
+{
+  "@context": "http://schema.org/",
+  "createPortfolio": {
+    "@type": "Thing",
+    "title": {
+      "@type": "Text",
+      "text": "Create Portfolio",
+      "category": "title",
+      "additionalType": "titleCase"
+    },
+    "portfolioName": {
+      "@type": "Text",
+      "text": "Portfolio Name *",
+      "category": "label",
+      "additionalType": "titleCase"
+    },
+    "description": {
+      "@type": "Text",
+      "text": "Description",
+      "category": "label",
+      "additionalType": "titleCase"
+    },
+    "requiredMessage": {
+      "@type": "Text",
+      "text": "Click on the Name field and enter a unique name.",
+      "category": "message",
+      "additionalType": "sentenceCase"
+    },
+    "currency": {
+      "@type": "Text",
+      "text": "Cancel",
+      "category": "button",
+      "additionalType": "titleCase"
+    },
+    "screen": {
+      "@type": "Text",
+      "text": "Create",
+      "category": "button",
+      "additionalType": "titleCase"
+    }
+  }
+}
