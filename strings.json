@@ -36,7 +36,9 @@
       "@type": "Text",
       "text": "Cancel",
       "category": "button",
-      "additionalType": "titleCase"
+      "additionalType": "titleCase",
+      "description": "This is a great button! reuse!",
+      "lastModified": "2025-09-05T14:40:50.255Z"
     },
     "screen": {
       "@type": "Text",
