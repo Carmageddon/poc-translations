@@ -18,13 +18,17 @@
       "@type": "Text",
       "text": "Description",
       "category": "label",
-      "additionalType": "titleCase"
+      "additionalType": "sentenceCase",
+      "description": "",
+      "lastModified": "2025-09-05T13:09:22.444Z"
     },
     "requiredMessage": {
       "@type": "Text",
-      "text": "Click on the Name field and enter a unique name.",
+      "text": "Click on the name field and enter a unique name.",
       "category": "message",
-      "additionalType": "sentenceCase"
+      "additionalType": "sentenceCase",
+      "description": "",
+      "lastModified": "2025-09-05T13:10:04.697Z"
     },
     "currency": {
       "@type": "Text",
