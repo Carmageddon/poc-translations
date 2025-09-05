@@ -12,7 +12,9 @@
       "@type": "Text",
       "text": "Portfolio Name *",
       "category": "label",
-      "additionalType": "titleCase"
+      "additionalType": "titleCase",
+      "description": "Name of the portfolio",
+      "lastModified": "2025-09-05T13:48:44.228Z"
     },
     "description": {
       "@type": "Text",
