@@ -4,9 +4,11 @@
     "@type": "Thing",
     "title": {
       "@type": "Text",
-      "text": "Create Portfolio",
+      "text": "Create Portfolios",
       "category": "title",
-      "additionalType": "titleCase"
+      "additionalType": "titleCase",
+      "description": "",
+      "lastModified": "2025-09-08T13:41:43.540Z"
     },
     "portfolioName": {
       "@type": "Text",
@@ -18,11 +20,11 @@
     },
     "description": {
       "@type": "Text",
-      "text": "Description",
+      "text": "                 <div class=\"section\" id=\"reinsurance.how__create-portfolio\"><h2 class=\"title sectiontitle\">Create a Portfolio</h2>                                  <p class=\"p\">Starting out, the only option available is the \"<strong class=\"ph b\">Create</strong>\" button. </p>                  <br /><img class=\"image\" id=\"reinsurance.how__create-duplicate-delete2\" src=\"../assets/images/create-duplicate-delete.png\" width=\"300\" /><br />                 <p class=\"p\"><strong class=\"ph b\">Click \"Create &gt; Portfolio\" </strong> to open the \"<strong class=\"ph b\">New Portfolio</strong>\"                     dialogue.</p>                  <br /><img class=\"image\" id=\"reinsurance.how__new-portfolio\" src=\"../assets/images/new-portfolio.png\" width=\"350\" /><br />                 <p class=\"p\">Give your Portfolio a Title and a Description, then <strong class=\"ph b\">click \"CREATE                         PORTFOLIO\"</strong>.</p>                  <p class=\"p\">Your new Portfolio opens ready for you to add Layers.</p>                  <br /><img class=\"image\" id=\"reinsurance.how__image_uqr_5vl_t2c\" src=\"../assets/images/my-first-portfolio.png\" width=\"500\" /><br />                 <p class=\"p\"></p>              </div>",
       "category": "label",
       "additionalType": "sentenceCase",
       "description": "",
-      "lastModified": "2025-09-05T13:09:22.444Z"
+      "lastModified": "2025-09-08T13:53:40.796Z"
     },
     "requiredMessage": {
       "@type": "Text",
@@ -43,6 +45,17 @@
       "text": "Create",
       "category": "button",
       "additionalType": "titleCase"
+    }
+  },
+  "Create Program": {
+    "@type": "Thing",
+    "currency": {
+      "@type": "Text",
+      "text": "Cancel",
+      "category": "label",
+      "additionalType": "titleCase",
+      "description": "",
+      "lastModified": "2025-09-08T13:46:46.633Z"
     }
   }
 }
