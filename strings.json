@@ -4,9 +4,11 @@
     "@type": "Thing",
     "title": {
       "@type": "Text",
-      "text": "Create Portfolio",
+      "text": "Create Portfolios",
       "category": "title",
-      "additionalType": "titleCase"
+      "additionalType": "titleCase",
+      "description": "",
+      "lastModified": "2025-09-08T13:41:43.540Z"
     },
     "portfolioName": {
       "@type": "Text",
